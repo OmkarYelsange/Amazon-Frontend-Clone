@@ -25,6 +25,8 @@ This project is a **frontend-only clone** of the Amazon.com homepage, built usin
 ---
 
 ## 📁 Folder Structure
+
+```
 Amazon Clone Frontend Project/
 │
 ├── assets/
@@ -38,6 +40,8 @@ Amazon Clone Frontend Project/
 ├── index.html
 ├── style.css
 └── README.md
+
+```
 
 ---
 
