@@ -79,7 +79,6 @@ This project is only for educational purposes.
 It is not affiliated with or endorsed by Amazon.
 All logos and trademarks belong to their respective owners.
 
-📃 License
-This p
+📃 License
 
 ✨ Created by Omkar Yelsange
