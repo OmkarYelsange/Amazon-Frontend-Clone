@@ -80,6 +80,6 @@ It is not affiliated with or endorsed by Amazon.
 All logos and trademarks belong to their respective owners.
 
 📃 License
-This project is 
+This p
 
 ✨ Created by Omkar Yelsange
